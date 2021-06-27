@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="996fe1b6-d75d-4d80-a79a-cbdc94dd4288" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1uWpx294icktF2pxSRVXZPAzHmf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Starter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book.Starter" />
+      <module name="Task5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="book.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Starter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="996fe1b6-d75d-4d80-a79a-cbdc94dd4288" name="Default Changelist" comment="" />
+      <created>1624791441879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624791441879</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1129" y="221" key="#Project_Structure" timestamp="1624791598512">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1129" y="221" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1624791598512" />
+    <state x="479" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624804598392">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="479" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1624804598392" />
+    <state x="1303" y="370" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1624791793881">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1303" y="370" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1624791793881" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1624805644898">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1624805644898" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1624805644898">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1624805644898" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1624805644898">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1624805644898" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1624805644898">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1624805644898" />
+  </component>
+</project>
